@@ -51,7 +51,7 @@ This is a living research project. Future versions will expand on:
 ## Contributing
 We welcome feedback and collaboration from anesthesiologists, AI researchers, ethicists, and others. Please:  
 - Submit feedback, suggestions, or issues via [GitHub Issues](https://github.com/collingeorge/FRIC/issues).  
-- Contact the author at collingeorge@uw.edu for inquiries, discussions, or collaboration opportunities.  
+- Contact the author at collin.george@protonmail.com for inquiries, discussions, or collaboration opportunities.  
 - Share ideas for applying FRIC in clinical contexts (e.g., anesthesia monitoring) or AI ethics frameworks.  
 - Star this repository to stay updated and support the project!
 
