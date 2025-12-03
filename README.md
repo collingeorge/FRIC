@@ -4,7 +4,7 @@
 [![License: Restricted](https://img.shields.io/badge/License-Restricted-blue.svg)](LICENSE) [![Status: In Progress](https://img.shields.io/badge/Status-In%20Progress-green.svg)](https://github.com/collingeorge/FRIC) [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](https://github.com/collingeorge/FRIC/issues) [![Preprint: In Progress](https://img.shields.io/badge/Preprint-In%20Progress-yellow.svg)](https://arxiv.org)
 
 - **Author:** Collin B. George, BS
-- **Affiliation:** Independent Clinical Researcher & Premedical Student
+- **Affiliation:** Independent Clinical Researcher & Medical School Applicant
 - (University of Washington; research not affiliated with or endorsed by UW Medicine)
 - **Initial Publication Date:** October 15, 2025
 - **Status**: Working Paper – Active Development
