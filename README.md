@@ -1,11 +1,14 @@
 # The Reciprocity Principle of Creation (FRIC)
 ## A Framework for Ethical Intelligence Engineering
 
-**Author**: Collin B. George  
-**Affiliation**: University of Washington – Independent Research  
-**Version**: 1.0 (2025)  
-**Status**: Working Paper – Active Development  
 [![License: Restricted](https://img.shields.io/badge/License-Restricted-blue.svg)](LICENSE) [![Status: In Progress](https://img.shields.io/badge/Status-In%20Progress-green.svg)](https://github.com/collingeorge/FRIC) [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](https://github.com/collingeorge/FRIC/issues) [![Preprint: In Progress](https://img.shields.io/badge/Preprint-In%20Progress-yellow.svg)](https://arxiv.org)
+
+- **Author:** Collin B. George, BS
+- **Affiliation:** Independent Clinical Researcher & Premedical Student
+- (University of Washington; research not affiliated with or endorsed by UW Medicine)
+- **Initial Publication Date:** October 15, 2025
+- **Status**: Working Paper – Active Development
+- **Version**: 1.0 (2025)
 
 ## Overview
 The *Reciprocity Principle of Creation (FRIC)* is an ethical framework for developing advanced artificial intelligence (AI) systems capable of autonomous reasoning and constructing internal models of reality. Drawing from anesthesiology, neuroscience, and systems ethics, FRIC ensures AI aligns with human dignity, moral responsibility, and protection against exploitation. For example, AI-driven EEG monitoring in anesthesiology risks misinterpreting consciousness without ethical safeguards, potentially causing dosing errors. Anesthesia shows that consciousness relies on integrated neural networks, collapsing subjective reality when disrupted—a critical lesson for designing AI to avoid misaligned world models in clinical settings like perioperative care.
