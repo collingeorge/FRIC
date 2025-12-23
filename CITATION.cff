@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+title: "A Framework for Ethical Intelligence Engineering: The Reciprocity Principle of Creation"
+message: "If you use this repository, please cite it using the information below."
+type: article
+authors:
+  - family-names: George
+    given-names: Collin B.
+    orcid: "https://orcid.org/0009-0007-8162-6839"
+    affiliation: "University of Washington"
+version: "1.0"
+date-released: "2025-10-15"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/collingeorge/FRIC"
+abstract: >
+  Conceptual ethical framework for AI development informed by neuroscience
+  principles of consciousness. Drawing from anesthesiology insights into
+  consciousness disruption, FRIC examines how AI systems with complex internal
+  models might warrant ethical consideration. Proposes three pillars: consciousness
+  consideration, ethical architecture, and reciprocal responsibility. Educational
+  pre-medical philosophical framework.
+keywords:
+  - artificial intelligence ethics
+  - AI consciousness
+  - machine consciousness
+  - anesthesiology
+  - neuroscience
+  - consciousness studies
+  - AI safety
+  - ethical AI
+  - philosophy of mind
+  - pre-medical research
