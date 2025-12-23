@@ -327,10 +327,6 @@ This is an educational project. Constructive feedback welcome:
 - [Open an issue](https://github.com/collingeorge/FRIC/issues) for conceptual questions, critiques, or suggestions
 - Discussion of philosophical frameworks, ethical principles, or anesthesia parallels
 
-**Via Email:**
-- collingeorge.research@protonmail.com
-- For detailed feedback, collaboration inquiries, or philosophical discussion
-
 **Types of Feedback Sought:**
 - Philosophical critiques of framework assumptions
 - Alternative perspectives on AI consciousness
@@ -354,7 +350,6 @@ This is an educational project. Constructive feedback welcome:
 
 **GitHub:** github.com/collingeorge  
 **ORCID:** 0009-0007-8162-6839  
-**Email:** collingeorge.research@protonmail.com  
 **License:** CC BY 4.0
 
 ---
